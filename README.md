@@ -26,7 +26,7 @@
       a) This bulb will be OFF: make both the bulb and the filament dark yet contrast against the background.
       b) This is the DIM BULB.
 -03- When you run on even seconds, load the DIM BULB.
-     When you run on odd seconds, load the LIT BULB.
+      When you run on odd seconds, load the LIT BULB.
 ```
 
 Origially, I really wanted to animate the scene by progressing frames via refreshing the browser. The assignment is clear to write out instructions for a static image. The lightbulb approach takes the concept of my first and scales it to fit the deliverables... I hope. 
