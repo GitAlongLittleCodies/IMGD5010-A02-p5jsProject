@@ -12,7 +12,7 @@
 <details>
   <summary>Step Two</summary>
   
-  #### [Link to P5.js My Program](https://editor.p5js.org/GitAlongLittleCodies/sketches/rEEDBps0R) 
+  #### [Link to my P5.js Program](https://editor.p5js.org/GitAlongLittleCodies/sketches/rEEDBps0R) 
   
   <h4>What my original instructions were:</h4>
  
