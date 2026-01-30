@@ -17,7 +17,7 @@
   <h4>What my original instructions were:</h4>
  
  ```
--01- Construct an simple illustration of an ordinary, screw-in lightbulb.
+-01- Construct a simple illustration of an ordinary lightbulb.
       a) It should include a cap, a round glass bulb, two lead wires, and a filament.
       b) It will be ON: make both the bulb and the filament glow in hues of yellow.
       c) Make it scalable.
