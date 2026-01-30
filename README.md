@@ -19,11 +19,11 @@
  ```
 -01- Construct an simple illustration of an ordinary, screw-in lightbulb.
       a) It should include a cap, a round glass bulb, two lead wires, and a filament.
-      b) It will be ON: make both the bulb and the filament should glow in different hues of yellow.
+      b) It will be ON: make both the bulb and the filament glow in hues of yellow.
       c) Make it scalable.
       d) This is the LIT BULB.
 -02- Duplicate the LIT BULB.
-      a) This bulb will be OFF: make both the bulb and the filament should be dark yet contrast from the background.
+      a) This bulb will be OFF: make both the bulb and the filament dark yet contrast against the background.
       b) This is the DIM BULB.
 -03- On even seconds, load the DIM BULB. On odd seconds, load the LIT BULB.
 ```
