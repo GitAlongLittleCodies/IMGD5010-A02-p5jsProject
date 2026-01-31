@@ -1,4 +1,4 @@
-<p align="center">IMGD 5010 &bull; Assignment 2 &bull; Instructions to P5.js &bull; Todd Stewart</p>
+<p align="center">Todd Stewart &bull; IMGD 5010 &bull; Assignment 2 &bull; Instructions to P5.js</p>
 
 
 ### To begin: Please review [this page.](https://editor.p5js.org/GitAlongLittleCodies/full/rEEDBps0R) <br>
