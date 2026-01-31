@@ -29,7 +29,7 @@
       When you run on odd seconds, load the LIT BULB.
 ```
 
-Origially, I really wanted to animate the scene by progressing frames via refreshing the browser. The assignment is clear to write out instructions for a static image. The lightbulb approach takes the concept of my first and scales it to fit the deliverables... I hope. 
+Originally, I really wanted to animate the scene by progressing frames via refreshing the browser. The assignment is clear to write out instructions for a static image. The lightbulb approach takes the concept of my first and scales it to fit the deliverables... I hope. 
 
 ![PrimitiveResizableLightbulb](https://github.com/user-attachments/assets/09e4b422-05ee-4de5-b0d9-01e9982d0a4a)
 
