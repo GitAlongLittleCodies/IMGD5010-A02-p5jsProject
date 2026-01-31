@@ -1,4 +1,4 @@
-// THIS IS A P%.js PROJECT
+// THIS IS A P5.js PROJECT
 // 
 // https://editor.p5js.org/GitAlongLittleCodies/sketches/rEEDBps0R
 //
