@@ -2,7 +2,7 @@
 ## Feedback for Sam, IMGD 5010 - Assignment 02
 
 My instructions as to How to Draw Your Dragon:
-*For the record, I used AI to read my instructions and draw a dragon. Right off, I already completed my assignment. I wrote my plain-language instructions, built a lightbulb script, submitted it for peer review, completed my feedback for another student, and completed documenting my own feedback results BEFORE I engaged in using AI to draw my instructions. Not sure if that matters. What more? Bottom line, the only assistance AI afforded me in my exercise was to allow me to self-edit my own instructions to realize a final drawing.*
+*For the record, I used AI to read my instructions and draw a dragon. Right off, I already completed my assignment. I wrote my plain-language instructions, built a lightbulb script, submitted it for peer review, completed my feedback for another student, and completed documenting my own feedback results BEFORE I engaged in using AI to draw my instructions. ALSO, Sam already received official feedback from another student. Not sure if that matters. What more? Bottom line, the only assistance AI afforded me in my exercise was to allow me to self-edit my own instructions to realize a final drawing.*
 
 ```
 Make a silhouette of a dragon as though it was cut out of construction paper.
