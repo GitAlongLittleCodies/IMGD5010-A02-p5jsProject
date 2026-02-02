@@ -6,7 +6,7 @@ My instructions as to How to Draw Your Dragon:
 
 ```
 Make a silhouette of a dragon as though it was cut out of construction paper.
-The dragon should fact to the left, be pale orange in color, have a purple spot
+The dragon should fact (sic) to the left, be pale orange in color, have a purple spot
 for an eye with two pale yellow triangle-shaped horns and three small pale yellow
 triangle-shaped spines down its back. Just draw the shoulders and the head. Place
 the dragon on a very light green background. Try not to make it look too much
